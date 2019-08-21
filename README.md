@@ -61,7 +61,7 @@
 ```
 ## 4.执行
 ### 4.1.下载代码到本地:
-go clone git@github.com:ZhDavis/AutoScaleDnspodTool.git 
+go clone git@github.com:dagedaniao/AutoScaleDnspodTool.git 
 ### 4.2.编译代码:
 go build，会生成可执行文件AutoScaleDnspodTool
 ### 4.3.修改配置文件
